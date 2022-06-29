@@ -1,7 +1,6 @@
 import turtle as t
 import random as rd
  
-t.bgpic("C:\Users\HP\Downloads\big-small-caterpillars-animal-cartoon-white-background.zip")
 t.bgcolor('blue')
 
 caterpillar = t.Turtle()
